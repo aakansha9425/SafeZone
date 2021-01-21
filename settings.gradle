@@ -1,0 +1,2 @@
+rootProject.name='Safezone'
+include ':app'

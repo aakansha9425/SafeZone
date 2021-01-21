@@ -1,0 +1,90 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fffff1"
+    tools:context=".Register_number">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="64dp"
+        android:text="Name"
+        android:textColor="#0F5A6E"
+        android:textColorHint="#0F5A6E"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_marginTop="64dp"
+        android:text="Number"
+        android:textColor="#0F5A6E"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="68dp"
+        android:background="@drawable/oval_btn"
+        android:text="Save" />
+
+    <Button
+        android:id="@+id/btn_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_save"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/oval_btn"
+        android:text="View" />
+
+    <EditText
+        android:id="@+id/number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView2"
+        android:layout_alignRight="@+id/btn_save"
+        android:layout_alignBottom="@+id/textView2"
+        android:ems="10"
+        android:backgroundTint="#13D0E8"
+        android:hint="Mobile Number"
+
+       android:inputType="phone"
+        android:textColor="#0F5A6E"
+        android:textColorHint="#0F5A6E" />
+
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView1"
+        android:layout_alignLeft="@+id/number"
+        android:backgroundTint="#13D0E8"
+        android:layout_alignBottom="@+id/textView1"
+        android:ems="10"
+        android:hint="Person Name"
+        android:inputType="textPersonName"
+        android:textColor="#0F5A6E"
+        android:textColorHint="#0F5A6E">
+
+        <requestFocus />
+
+    </EditText>
+
+</RelativeLayout>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Safe</string>
+    <string name="send_btn">Send</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="register_btn">      Register Number </string>
+    <string name="safety_tips_btn">Women Safety Tips</string>
+    <string name="escape_tips_btn">How to Escape from Threat ?</string>
+    <string name="instruction_btn">Instructions</string>
+    <string name="video_self_defence">Self Defence Videos </string>
+    <string name="woen_safety_tips_text"><![CDATA[1.  Be aware of your surroundings. Don’t let your guard down\n\n
+    2.  Please trust and make good use of your ‘gut feel’ or ‘intuition’ or ‘sixth sense’ in each & every place and situation.\n\n
+    3. Look underneath your car before approaching it in a parking garage or lot at night.\n\n
+4. If you return to your car and see that a van is parked right next to the driver\'s side, enter through the passenger side.
+    Predators often use vans and will disguise it as a family car, even using "Baby on Board" decals.\n\n
+5. You return to your car and it has a flat tire. Back away. Return to wherever you came from (restaurant, store, etc)
+    and call for help. Once assistance arrives, approach your car. If someone comes up to you (even if they are a woman) and wants to offer help, politely say,
+    "No thank you." If a man, he could be a predator. If a woman, she could be the lurer.\n\n
+6. When leaving the mall late at night, ask a security guard to walk you to your car. Do not go up to just any security guard. Go directly to the kiosk and ask
+    for them to assign an officer to escort you. Predators sometimes dress up like men of the law.\n\n
+7. When the pharmacist asks you to confirm your home address, whisper it to them. Broadcasting your home address among strangers on the line could compromise your safety.\n\n
+8. Ditto if you are checking in to a hotel room. If the person at the front desk says your room number out loud, ask them to give you a new room and write the number on a piece of paper.
+    Or when you check-in, ask upfront that they not say your room number out loud. Your room number should be your business only.\n\n
+    9. Before entering your hotel room, make sure no one is lingering in the hallway.\n\n
+10. Always immediately lock your hotel room door after you enter.\n\n
+11. When traveling, do not walk with your map in your hand. It is a dead giveaway that you are a tourist. Therefore, you are an easy target.\n\n
+12. If you call for room service, and you get a knock on your door, do not immediately open. Ask: "Who is it?" Make the person on the other side of the door tell you who they are before you open it.\n\n
+13. When asking for directions and someone offers to show you the way by having you follow them, do not go. Just ask for them to point you in the right direction. Often, predators just want to get you to a place less crowded where your screams can not be heard.\n\n
+14. If someone tries to grab you, twist your arm up and down and yell, "Stop!" Do anything you can to draw attention to yourself.\n\n
+15. Always pour your own drink at a party and bring it with you everywhere…even to the bathroom. This will make it a lot harder for someone to drug you via you drink.\n\n
+
+]]></string>
+    <string name="escape_from_threat_question1">1. What should a woman do if she finds herself alone in the company of strange male as she prepares to enter a lift in a High Rise apartment late at night</string>
+    <string name="escape_from_threat_answer1">Experts Say :Enter the lift..... if you need to reach the 13th floor ,press all the buttons up to your destination .No one will dare to attack  you in a lift that stops on every floor</string>
+    <string name="escape_from_threat_question2">2. What to do if a stranger tries to attack you when you are alone in your house ,run into the kitchen .</string>
+    <string name="escape_from_threat_answer2">Expert Say : You alone know where the chilli powder and turmeric are kept And where the knives and plates are and all these could be turned into deadly weapons .</string>
+    <string name="escape_from_threat_question3">3.Taking an Auto or Taxi at Night</string>
+    <string name="escape_from_threat_answer3">Expert Say : Before getting into an auto at night note the registeration number of auto,then use the mobile to call your family member and pass the detail to them ,if no one answer then pretend you have given them the information</string>
+    <string name="escape_from_threat_question4">4. What if the driver turns into a street he is not supposed too and you feel you are enter ing a danger zone </string>
+    <string name="escape_from_threat_answer4">Expert Says : Use the handle of your purse oe your stole to wrap around his neck and pull him back .Within seconds ,he feel choked and helpless .in case you  do not have a purse or stole just pull him back by his collar. The top button of his shirt would then do the same trick .</string>
+    <string name="escape_from_threat_question5">5. If you are stalked at night ....</string>
+    <string name="escape_from_threat_answer5">Expert Says : Enter a shop or a house and explain your predicament .if  it is night and shops arenot open,go inside an ATM box .ATM centres have always have close circuit  television .Fearing identification,no one will dare attack you.</string>
+    <string name="endline">After all ,being mentally alert is the greatest weapon you can ever have </string>
+    <string name="instruction">1. Register the emergency contact.\n\n2.In case of danger or emergency situation open app and click send or shake your phone.\n\n3.Always try to allow gps, internet and sms permission otherwise we will not be able to solve issue.\n\n4.THANKYOU
+    </string>
+</resources>

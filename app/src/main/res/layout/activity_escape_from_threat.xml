@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fffff1"
+    android:padding="15dp"
+    tools:context=".Escape_from_threatActivity">
+
+   <ScrollView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content">
+       <RelativeLayout
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content">
+
+
+           <TextView
+               android:id="@+id/question1"
+               android:textColor="#000"
+               android:textSize="20sp"
+               android:textStyle="bold"
+               android:text="@string/escape_from_threat_question1"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"/>
+
+
+           <TextView
+               android:layout_below="@+id/question1"
+               android:id="@+id/answer1"
+               android:textColor="#2E2D2D"
+               android:textSize="20sp"
+               android:text="@string/escape_from_threat_answer1"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"/>
+
+
+           <TextView
+               android:layout_below="@+id/answer1"
+               android:id="@+id/question2"
+               android:textColor="#000"
+               android:textSize="20sp"
+               android:textStyle="bold"
+               android:text="@string/escape_from_threat_question2"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"/>
+
+
+           <TextView
+               android:layout_below="@+id/question2"
+               android:id="@+id/answer2"
+               android:textColor="#2E2D2D"
+               android:textSize="20sp"
+               android:text="@string/escape_from_threat_answer2"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"/>
+
+
+           <TextView
+               android:layout_below="@+id/answer2"
+               android:id="@+id/question3"
+               android:textColor="#000"
+               android:textSize="20sp"
+               android:textStyle="bold"
+               android:text="@string/escape_from_threat_question3"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"/>
+
+
+           <TextView
+               android:layout_below="@+id/question3"
+               android:id="@+id/answer3"
+               android:textColor="#2E2D2D"
+               android:textSize="20sp"
+               android:text="@string/escape_from_threat_answer3"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"/>
+
+
+           <TextView
+               android:layout_below="@+id/answer3"
+               android:id="@+id/question4"
+               android:textColor="#000"
+               android:textSize="20sp"
+               android:textStyle="bold"
+               android:text="@string/escape_from_threat_question4"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"/>
+
+
+           <TextView
+               android:layout_below="@+id/question4"
+               android:id="@+id/answer4"
+               android:textColor="#2E2D2D"
+               android:textSize="20sp"
+               android:text="@string/escape_from_threat_answer4"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"/>
+
+
+           <TextView
+               android:layout_below="@+id/answer4"
+               android:id="@+id/question5"
+               android:textColor="#000"
+               android:textSize="20sp"
+               android:textStyle="bold"
+               android:text="@string/escape_from_threat_question5"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"/>
+
+
+           <TextView
+               android:layout_below="@+id/question5"
+               android:id="@+id/answer5"
+               android:textColor="#2E2D2D"
+               android:textSize="20sp"
+               android:text="@string/escape_from_threat_answer5"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"/>
+           <TextView
+               android:layout_below="@+id/answer5"
+               android:id="@+id/endline"
+               android:textColor="#000"
+               android:textSize="20sp"
+               android:textStyle="bold"
+               android:text="@string/endline"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"/>
+
+
+       </RelativeLayout>
+   </ScrollView>
+
+</RelativeLayout>
